@@ -1,2 +1,2 @@
 # index
-cd Bureau code
+cd/ Bureau code
